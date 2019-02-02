@@ -17,7 +17,7 @@
 
 To download this repo and all the submodules you must use git clone --recurse-submodules [https://github.com/stiles69/lib.git](https://github.com/stiles69/lib.git)
 
-To update submodules with upstream changes run *git submodule update --remote*
+To update submodules with upstream changes run **git submodule update --remote**
 
 *This must be done from the current repository and not from within a submodule!*
 
