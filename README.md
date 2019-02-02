@@ -1,13 +1,14 @@
 ![Rogue Designs Logo](https://storage.googleapis.com/stiles-images/RogueLogo-256x158.png)
 
-**Rogue Designs**
-# lib
+# Rogue Designs
 
-## Script Library ##
+## lib
 
-**There are two submodules in lib**
+## Script Library
 
-*py*
+**There are two submodules in lib
+
+*py
 
 [git@github.com:stiles69/py.git](https://github.com/stiles69/py.git)
 
