@@ -19,3 +19,5 @@ To download this repo and all the submodules you must use git clone --recurse-su
 
 To update submodules with upstream changes run *git submodule update --remote*
 
+*This must be done from the current repository and not from within a submodule!*
+
