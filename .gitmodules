@@ -1,0 +1,6 @@
+[submodule "py"]
+	path = py
+	url = git@github.com:stiles69/py.git
+[submodule "sh"]
+	path = sh
+	url = git@github.com:stiles69/sh.git
