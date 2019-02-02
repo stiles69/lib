@@ -5,8 +5,9 @@
 ## Script Library ##
 
 **There are two submodules in lib**
+*py*
+[git@github.com:stiles69/py.git](git@github.com:stiles69/py.git)
 
-[sh](https://github.com/stiles69/sh.git)
-
-[py](https://github.com/stiles69/py.git)
+*sh*
+[git@github.com:stiles69/sh.git](git@github.com:stiles69/sh.git)
 
