@@ -6,8 +6,10 @@
 
 **There are two submodules in lib**
 *py*
-[git@github.com:stiles69/py.git](git@github.com:stiles69/py.git)
+
+[git@github.com:stiles69/py.git](https://github.com/stiles69/py.git)
 
 *sh*
-[git@github.com:stiles69/sh.git](git@github.com:stiles69/sh.git)
+
+[git@github.com:stiles69/sh.git](https://github.com/stiles69/sh.git)
 
