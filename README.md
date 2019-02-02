@@ -6,8 +6,8 @@
 
 **There are two submodules in lib**
 **sh**
-!sh(https://github.com/stiles69/sh.git)
+[sh](https://github.com/stiles69/sh.git)
 
 **py**
-!py(https://github.com/stiles69/py.git)
+[py](https://github.com/stiles69/py.git)
 
