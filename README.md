@@ -2,12 +2,12 @@
 **Rogue Designs**
 # lib
 
-##Script Library##
+## Script Library ##
 
 **There are two submodules in lib**
 **sh**
-git@github.com:stiles69/sh.git
+![sh](git@github.com:stiles69/sh.git)
 
 **py**
-git@github.com:stiles69/py.git
+![py](git@github.com:stiles69/py.git)
 
